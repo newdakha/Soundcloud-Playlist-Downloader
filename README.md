@@ -4,7 +4,7 @@
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-latest-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-Downloads audio from YouTube as `.mp3` using yt-dlp and FFmpeg.
+Downloads audio from SoundCloude as `.mp3` using yt-dlp and FFmpeg.
 
 ---
 

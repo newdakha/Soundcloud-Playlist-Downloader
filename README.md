@@ -1,4 +1,4 @@
-# YT Audio Downloader
+# SoundCloude Audio Downloader
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-latest-red)
